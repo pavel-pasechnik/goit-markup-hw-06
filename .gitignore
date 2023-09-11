@@ -2,7 +2,7 @@
 .vscode/
 
 #Json configs
-*json
+# *json
 
 #Gitignor fille
 # .gitignore
