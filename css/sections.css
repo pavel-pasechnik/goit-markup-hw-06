@@ -32,15 +32,11 @@ screen and (max-width: 320px) {
 
 	/* MODAL WINDOW */
 
-	.backdrop {
-		overflow-y: scroll;
-	}
-
 	.modal {
 		width: 288px;
 		min-height: 584px;
 		padding: 72px 15px 24px;
-		transform: translate(-50%, -50%) scale(1);
+		transform: translate(-50%, -50%);
 	}
 
 	.user-privacy {
