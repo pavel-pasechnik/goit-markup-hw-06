@@ -100,7 +100,6 @@ screen and (max-width: 320px) {
 	}
 
 	.mobile-menu .contacts-item li a {
-		/* ! */
 		color: #434455;
 		font-size: 16px;
 		font-weight: 400;
@@ -128,7 +127,6 @@ screen and (max-width: 320px) {
 	}
 
 	.mobile-menu .social-list-link {
-		/* ! */
 		display: flex;
 		justify-content: center;
 		align-items: center;

@@ -63,7 +63,8 @@
 		justify-content: flex-start;
 		align-items: baseline;
 		column-gap: 24px;
-		margin-left: 108px;
+		margin: 0 auto;
+		max-width: 584px;
 	}
 
 	.footer .no-wrap {
@@ -105,6 +106,7 @@
 		align-items: baseline;
 		gap: unset;
 		margin: 0 auto;
+		max-width: 1158px;
 	}
 
 	.footer .no-wrap {
